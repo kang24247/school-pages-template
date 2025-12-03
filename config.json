@@ -1,0 +1,30 @@
+{
+    "school_id": "school-template",
+    "school_name": "请替换为您的学校名称",
+    "school_slogan": "自强不息，厚德载物",
+    "primary_color": "#4a6fa5",
+    "logo_url": "https://placekitten.com/200/200",
+    "contact": {
+        "address": "请填写详细地址",
+        "phone": "010-12345678",
+        "email": "contact@school.edu.cn",
+        "website": "https://www.school.edu.cn"
+    },
+    "announcements": [
+        {
+            "title": "欢迎使用学校专属页面",
+            "date": "2024-05-20",
+            "content": "这是您的学校专属页面模板，请根据实际需要修改配置。"
+        },
+        {
+            "title": "系统使用说明",
+            "date": "2024-05-19",
+            "content": "修改 config.json 文件即可更新学校信息，无需编程知识。"
+        }
+    ],
+    "features": [
+        "响应式设计，支持手机电脑",
+        "与主教学系统无缝集成",
+        "一键部署，实时更新"
+    ]
+}
